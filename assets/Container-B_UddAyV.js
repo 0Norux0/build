@@ -1,0 +1,1 @@
+import{j as s}from"./app-B8YhwDEz.js";function a({children:x,className:o=""}){return s.jsx("div",{className:["mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8 xl:px-10",o].join(" "),children:x})}export{a as C};
