@@ -1,0 +1,1 @@
+import{u as c}from"./app-B0_ZsVB1.js";function g(){const{translations:e}=c().props;return(n,t)=>{const r=typeof t=="string"?t:n,s=(e&&e[n])??r,o=typeof t=="string"?void 0:t;return o?Object.entries(o).reduce((i,[p,u])=>i.replace(new RegExp(`\\{\\s*${p}\\s*\\}`,"g"),String(u)),s):s}}export{g as u};
